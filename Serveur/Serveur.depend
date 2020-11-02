@@ -1,0 +1,412 @@
+# depslib dependency file v1.0
+1586210763 source:c:\users\daniel\desktop\bataille navale\serveur\main.c
+	"includes.h"
+
+1583635405 source:c:\users\daniel\desktop\bataille navale\serveurs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<io.h>
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<netinet/in.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<pthread.h>
+	<sys/select.h>
+	<stdio.h>
+	<stdlib.h>
+
+1585525297 c:\users\daniel\desktop\bataille navale\shared libraries\network.h
+
+1586211848 source:c:\users\daniel\desktop\bataille navale\serveur\list.c
+	"includes.h"
+
+1586209978 c:\users\daniel\desktop\bataille navale\serveur\server.h
+	"includes.h"
+
+1584532284 source:c:\users\daniel\desktop\bataille navale\serveur\network.c
+	"server.h"
+
+1586312565 source:c:\users\daniel\desktop\bataille navale\serveur\clientcallback.c
+	"includes.h"
+
+1586210763 source:c:\users\daniel\desktop\bataille navale\serveur\server.c
+	"includes.h"
+
+1584676929 source:c:\users\daniel\desktop\bataille navale - copie - copie\serveur\clientcallback.c
+	"server.h"
+
+1584669178 c:\users\daniel\desktop\bataille navale - copie - copie\serveur\server.h
+	<windows.h>
+	<io.h>
+	"../Shared Libraries/network.h"
+	<unistd.h>
+	<string.h>
+	<netinet/in.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/select.h>
+	"network.h"
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
+1584675121 c:\users\daniel\desktop\bataille navale - copie - copie\shared libraries\network.h
+
+1584669178 source:c:\users\daniel\desktop\bataille navale - copie - copie\serveur\list.c
+	"server.h"
+
+1584532331 source:c:\users\daniel\desktop\bataille navale - copie - copie\serveur\main.c
+	"server.h"
+
+1584532284 source:c:\users\daniel\desktop\bataille navale - copie - copie\serveur\server.c
+	"server.h"
+
+1585383203 source:c:\users\daniel\desktop\bataille navale\serveurold\list.c
+	"server.h"
+
+1585383261 c:\users\daniel\desktop\bataille navale\serveurold\server.h
+	<windows.h>
+	<io.h>
+	"../Shared Libraries/network.h"
+	<unistd.h>
+	<string.h>
+	<netinet/in.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/select.h>
+	"network.h"
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
+1584532284 source:c:\users\daniel\desktop\bataille navale\serveurold\server.c
+	"server.h"
+
+1585382548 source:c:\users\daniel\desktop\bataille navale\serveurold\main.c
+	"server.h"
+
+1585383244 source:c:\users\daniel\desktop\bataille navale\serveurold\clientcallback.c
+	"server.h"
+
+1586210434 c:\users\daniel\desktop\bataille navale\serveur\list.h
+	"communication.h"
+	"randomGrid.h"
+
+1585614365 c:\users\daniel\desktop\bataille navale\serveur\login.h
+	"server.h"
+	"login.h"
+
+1586222368 source:c:\users\daniel\desktop\bataille navale\serveur\login.c
+	"includes.h"
+
+1586210763 source:c:\users\daniel\desktop\bataille navale\serveur\account.c
+	"includes.h"
+
+1585403419 source:c:\users\daniel\desktop\programmation\bataille navale\serveur\account.c
+	"server.h"
+
+1585494748 c:\users\daniel\desktop\programmation\bataille navale\serveur\server.h
+	<windows.h>
+	<io.h>
+	"../Shared Libraries/network.h"
+	<unistd.h>
+	<string.h>
+	<netinet/in.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/select.h>
+	"network.h"
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	"list.h"
+	"login.h"
+	"game.h"
+
+1585508043 c:\users\daniel\desktop\programmation\bataille navale\shared libraries\network.h
+
+1585508043 c:\users\daniel\desktop\programmation\bataille navale\serveur\list.h
+	"server.h"
+
+1585399337 c:\users\daniel\desktop\programmation\bataille navale\serveur\login.h
+	"server.h"
+	"login.h"
+
+1585508043 source:c:\users\daniel\desktop\programmation\bataille navale\serveur\clientcallback.c
+	"server.h"
+
+1585427948 source:c:\users\daniel\desktop\programmation\bataille navale\serveur\list.c
+	"server.h"
+
+1585495009 source:c:\users\daniel\desktop\programmation\bataille navale\serveur\login.c
+	"server.h"
+
+1585390207 source:c:\users\daniel\desktop\programmation\bataille navale\serveur\main.c
+	"server.h"
+
+1585490252 source:c:\users\daniel\desktop\programmation\bataille navale\serveur\server.c
+	"server.h"
+
+1585499358 source:c:\users\daniel\desktop\programmation\bataille navale\serveur\game.c
+	"server.h"
+
+1585498686 c:\users\daniel\desktop\programmation\bataille navale\serveur\game.h
+	"server.h"
+
+1586208453 c:\users\daniel\desktop\bataille navale\serveur\game.h
+	"server.h"
+
+1586313339 source:c:\users\daniel\desktop\bataille navale\serveur\game.c
+	"includes.h"
+
+1586312939 c:\users\daniel\desktop\bataille navale\shared libraries\communication.h
+
+1586312565 c:\users\daniel\desktop\bataille navale\serveur\includes.h
+	<windows.h>
+	<io.h>
+	"../Shared Libraries/communication.h"
+	<unistd.h>
+	<string.h>
+	<netinet/in.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/select.h>
+	"communication.h"
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<time.h>
+	<ctype.h>
+	<pthread.h>
+
+1586210434 c:\users\daniel\desktop\bataille navale\serveur\randomgrid.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"includes.h"
+
+1586220426 source:c:\users\daniel\desktop\bataille navale\serveur\randomgrid.c
+	"includes.h"
+
+1586210763 source:c:\users\daniel\desktop\esgi\bataille navale\serveur\account.c
+	"includes.h"
+
+1586312565 c:\users\daniel\desktop\esgi\bataille navale\serveur\includes.h
+	<windows.h>
+	<io.h>
+	"../Shared Libraries/communication.h"
+	<unistd.h>
+	<string.h>
+	<netinet/in.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/select.h>
+	"communication.h"
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<time.h>
+	<ctype.h>
+	<pthread.h>
+
+1586312939 c:\users\daniel\desktop\esgi\bataille navale\shared libraries\communication.h
+
+1586312565 source:c:\users\daniel\desktop\esgi\bataille navale\serveur\clientcallback.c
+	"includes.h"
+
+1586313339 source:c:\users\daniel\desktop\esgi\bataille navale\serveur\game.c
+	"includes.h"
+
+1586211848 source:c:\users\daniel\desktop\esgi\bataille navale\serveur\list.c
+	"includes.h"
+
+1586222368 source:c:\users\daniel\desktop\esgi\bataille navale\serveur\login.c
+	"includes.h"
+
+1586210763 source:c:\users\daniel\desktop\esgi\bataille navale\serveur\main.c
+	"includes.h"
+
+1586220426 source:c:\users\daniel\desktop\esgi\bataille navale\serveur\randomgrid.c
+	"includes.h"
+
+1586210763 source:c:\users\daniel\desktop\esgi\bataille navale\serveur\server.c
+	"includes.h"
+
+1590056875 source:c:\users\daniel\desktop\esgi\c\bataille navale\serveur\account.c
+	"includes.h"
+
+1590056610 c:\users\daniel\desktop\esgi\c\bataille navale\serveur\includes.h
+	<windows.h>
+	<io.h>
+	"../Shared Libraries/communication.h"
+	<unistd.h>
+	<string.h>
+	<netinet/in.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/select.h>
+	"communication.h"
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<time.h>
+	<ctype.h>
+	<pthread.h>
+
+1590056565 c:\users\daniel\desktop\esgi\c\bataille navale\shared libraries\communication.h
+
+1590009493 source:c:\users\daniel\desktop\esgi\c\bataille navale\serveur\clientcallback.c
+	"includes.h"
+
+1590005086 source:c:\users\daniel\desktop\esgi\c\bataille navale\serveur\game.c
+	"includes.h"
+
+1586211848 source:c:\users\daniel\desktop\esgi\c\bataille navale\serveur\list.c
+	"includes.h"
+
+1590056689 source:c:\users\daniel\desktop\esgi\c\bataille navale\serveur\login.c
+	"includes.h"
+
+1586210763 source:c:\users\daniel\desktop\esgi\c\bataille navale\serveur\main.c
+	"includes.h"
+
+1589916342 source:c:\users\daniel\desktop\esgi\c\bataille navale\serveur\randomgrid.c
+	"includes.h"
+
+1586210763 source:c:\users\daniel\desktop\esgi\c\bataille navale\serveur\server.c
+	"includes.h"
+
+1593296454 source:c:\users\daniel\desktop\esgi\c\bataille navale new\bataille navale\serveur\account.c
+	"includes.h"
+
+1594248750 c:\users\daniel\desktop\esgi\c\bataille navale new\bataille navale\serveur\includes.h
+	<windows.h>
+	<io.h>
+	<unistd.h>
+	<string.h>
+	<netinet/in.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/select.h>
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<time.h>
+	<ctype.h>
+	<pthread.h>
+	"../Shared Libraries/communication.h"
+
+1594251031 c:\users\daniel\desktop\esgi\c\bataille navale new\bataille navale\shared libraries\communication.h
+
+1593296454 source:c:\users\daniel\desktop\esgi\c\bataille navale new\bataille navale\serveur\clientcallback.c
+	"includes.h"
+
+1594250619 source:c:\users\daniel\desktop\esgi\c\bataille navale new\bataille navale\serveur\game.c
+	"includes.h"
+
+1593296454 source:c:\users\daniel\desktop\esgi\c\bataille navale new\bataille navale\serveur\list.c
+	"includes.h"
+
+1593296454 source:c:\users\daniel\desktop\esgi\c\bataille navale new\bataille navale\serveur\login.c
+	"includes.h"
+
+1593298170 source:c:\users\daniel\desktop\esgi\c\bataille navale new\bataille navale\serveur\main.c
+	"includes.h"
+
+1593296454 source:c:\users\daniel\desktop\esgi\c\bataille navale new\bataille navale\serveur\randomgrid.c
+	"includes.h"
+
+1593296454 source:c:\users\daniel\desktop\esgi\c\bataille navale new\bataille navale\serveur\server.c
+	"includes.h"
+
+1593277591 source:c:\users\dams\desktop\cours\cours_4a\s2\programmation_sys_res\projet\serveur\account.c
+	"includes.h"
+
+1593294283 c:\users\dams\desktop\cours\cours_4a\s2\programmation_sys_res\projet\serveur\includes.h
+	<windows.h>
+	<io.h>
+	<unistd.h>
+	<string.h>
+	<netinet/in.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/select.h>
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<time.h>
+	<ctype.h>
+	<pthread.h>
+	"../Shared Libraries/communication.h"
+
+1593293456 c:\users\dams\desktop\cours\cours_4a\s2\programmation_sys_res\projet\shared libraries\communication.h
+
+1593277932 source:c:\users\dams\desktop\cours\cours_4a\s2\programmation_sys_res\projet\serveur\clientcallback.c
+	"includes.h"
+
+1593291825 source:c:\users\dams\desktop\cours\cours_4a\s2\programmation_sys_res\projet\serveur\game.c
+	"includes.h"
+
+1593291804 source:c:\users\dams\desktop\cours\cours_4a\s2\programmation_sys_res\projet\serveur\list.c
+	"includes.h"
+
+1593289449 source:c:\users\dams\desktop\cours\cours_4a\s2\programmation_sys_res\projet\serveur\login.c
+	"includes.h"
+
+1593275843 source:c:\users\dams\desktop\cours\cours_4a\s2\programmation_sys_res\projet\serveur\main.c
+	"includes.h"
+
+1593292756 source:c:\users\dams\desktop\cours\cours_4a\s2\programmation_sys_res\projet\serveur\randomgrid.c
+	"includes.h"
+
+1593289691 source:c:\users\dams\desktop\cours\cours_4a\s2\programmation_sys_res\projet\serveur\server.c
+	"includes.h"
+
+1593296454 source:c:\users\daniel\desktop\esgi\c\bataille navale new\bataille navale\server_2.8_full_comments\serveur\account.c
+	"includes.h"
+
+1594248750 c:\users\daniel\desktop\esgi\c\bataille navale new\bataille navale\server_2.8_full_comments\serveur\includes.h
+	<windows.h>
+	<io.h>
+	<unistd.h>
+	<string.h>
+	<netinet/in.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/select.h>
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<time.h>
+	<ctype.h>
+	<pthread.h>
+	"../Shared Libraries/communication.h"
+
+1594251031 c:\users\daniel\desktop\esgi\c\bataille navale new\bataille navale\server_2.8_full_comments\shared libraries\communication.h
+
+1593296454 source:c:\users\daniel\desktop\esgi\c\bataille navale new\bataille navale\server_2.8_full_comments\serveur\clientcallback.c
+	"includes.h"
+
+1594250619 source:c:\users\daniel\desktop\esgi\c\bataille navale new\bataille navale\server_2.8_full_comments\serveur\game.c
+	"includes.h"
+
+1593296454 source:c:\users\daniel\desktop\esgi\c\bataille navale new\bataille navale\server_2.8_full_comments\serveur\list.c
+	"includes.h"
+
+1593296454 source:c:\users\daniel\desktop\esgi\c\bataille navale new\bataille navale\server_2.8_full_comments\serveur\login.c
+	"includes.h"
+
+1593296454 source:c:\users\daniel\desktop\esgi\c\bataille navale new\bataille navale\server_2.8_full_comments\serveur\randomgrid.c
+	"includes.h"
+
+1593296454 source:c:\users\daniel\desktop\esgi\c\bataille navale new\bataille navale\server_2.8_full_comments\serveur\server.c
+	"includes.h"
+
+1593298170 source:c:\users\daniel\desktop\esgi\c\bataille navale new\bataille navale\server_2.8_full_comments\serveur\main.c
+	"includes.h"
+
